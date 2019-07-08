@@ -1,5 +1,3 @@
 const driver = 'bob';
 
-function (driver){
-
-}
+console.console.log("this code was called");
